@@ -1,6 +1,17 @@
+<div align="center">
+  <a href="https://workwithme2003-cmyk.github.io/PORTFOLIO/">
+    <img src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" width="100%" alt="Retro CRT Portfolio Banner" />
+  </a>
+</div>
+
 <h1 align="center">Hi 👋! My name is Akhil Pratap Chaudhary</h1>
 <p align="center">
   <b>Data Analyst | Full Stack Developer</b>
+</p>
+
+<p align="center">
+  🖥️ <b>Experience my interactive Retro CRT Terminal Portfolio:</b><br>
+  👉 <b><a href="https://workwithme2003-cmyk.github.io/PORTFOLIO/">workwithme2003-cmyk.github.io/PORTFOLIO/</a></b> 👈
 </p>
 
 <hr>
